@@ -1,6 +1,6 @@
 ![logo](https://github.com/Nikunjkhannawalia/Nikunjkhannawalia/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nikunj Khannawalia</h1>
-<h3 align="center">A passionate intelligent automation and defense tech enthusiast from India</h3>
+<h3 align="center">AI leaner from India</h3>
 <img align="right" alt="ai" width="400" src="https://media1.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=6c09b952rfs8xszwuqtaxeudaqbdiqiujdqu4bzjivs2m9kh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🏢 Experience: Internship-DRDO SSPL
